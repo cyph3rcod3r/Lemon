@@ -11,7 +11,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-overtime.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com)
 
 <p>
-<img src="https://github.com/cyph3rcod3r/Lemon/blob/master/Screenshot_20220918-233731.png" width="200" height="440"/>
+<img src="https://github.com/cyph3rcod3r/Lemon/blob/master/Screenshot_20220918-233755.png" width="200" height="440"/>
 <img src="https://github.com/cyph3rcod3r/Lemon/blob/master/Screenshot_20220918-233746.png" width="200" height="440"/>
 <img src="https://github.com/cyph3rcod3r/Lemon/blob/master/Screenshot_20220918-233731.png" width="200" height="440"/>
 </p>
