@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">A handsome NFT Market Place which I name Lemon, Android App Mock built on Jetpack Compose found on uplabs <a href="https://www.uplabs.com/posts/best-nft-marketplace-ui-ux-app-ui-kit-design">Here<a></h4>
+<h4 align="center">A handsome NFT Market Place which I named Lemon, Android App Mock built on Jetpack Compose found on uplabs <a href="https://www.uplabs.com/posts/best-nft-marketplace-ui-ux-app-ui-kit-design">Here<a></h4>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-overtime.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com)
 
